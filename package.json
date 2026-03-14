@@ -1,0 +1,5 @@
+{
+  "name": "afk-bot",
+  "dependencies": { "mineflayer": "latest", "express": "latest" },
+  "scripts": { "start": "node index.js" }
+}
